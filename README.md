@@ -39,7 +39,7 @@ Good luck and happy coding! 🚀💻
 - JavaScript  
 
 ## Live Demo  
-🔗 [View on GitHub Pages](https://yourusername.github.io/website/)  
+🔗 [View on GitHub Pages](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Ogbakidavid/)
 
 ## How to Run Locally  
 1. Clone the repo:  
